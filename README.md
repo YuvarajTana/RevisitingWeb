@@ -3,8 +3,9 @@ This repository meant for revisiting Web concepts starting from HTML, CSS, JavaS
 
 ## Web fundamentals
   ### HTML
-    - How to start with HTML
-    - Semantic elements
+    ** How to start with HTML **
+
+    ** Semantic elements **
       1. header
       2. nav
       3. footer
@@ -12,12 +13,34 @@ This repository meant for revisiting Web concepts starting from HTML, CSS, JavaS
       5. aside
       6. article
 
-    - Text elements
+    ** Text elements **
       1. div, p, span
       2. h1,h2,h3,h4,h5,h6
-    - Media elemts
+    
+    ** Anchor element **
+      a  
+
+    ** Media elemts **
       1. img
       2. audio
       3. video
+
+    ** Form Elements **
+      input type -> text, radio, checkbox, date, number, submit, button
+
+      select 
+
+      button
+
+      textarea
+
+    - Lists
+    
+    - Table
+
+    - Canvas
+
+    - SVG 
+
   ### CSS
   ### JavaScript
